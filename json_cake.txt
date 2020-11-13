@@ -1,0 +1,9 @@
+{
+    "name":"John",
+    "quantity":500g,
+    "flavour":[
+        { "cake":"vanilla", "cookies":"Biscuits" },
+        { "cake":"chocolate", "cookies":"smiley" },
+        { "cake":"butterscoth", "cookies":"heart Biscuits" }
+    ]
+}
